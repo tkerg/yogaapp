@@ -1,0 +1,10 @@
+body {
+	padding-top:50px;	
+}
+
+.modal-lg {
+  width: 80%;
+}
+.modal-sm {
+  width: 30%;
+}
